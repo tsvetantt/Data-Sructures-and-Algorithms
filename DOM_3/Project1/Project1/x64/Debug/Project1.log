@@ -1,0 +1,7 @@
+﻿  DOM_3_task2.cpp
+D:\UNI_FMI\2_dogina\SDA\DOM_3\Project1\Project1\DOM_3_task2.cpp(219,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\UNI_FMI\2_dogina\SDA\DOM_3\Project1\Project1\DOM_3_task2.cpp(229,53): error C2677: binary '-': no global operator found which takes type 'std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>' (or there is no acceptable conversion)
+          with
+          [
+              _Ty=int
+          ]

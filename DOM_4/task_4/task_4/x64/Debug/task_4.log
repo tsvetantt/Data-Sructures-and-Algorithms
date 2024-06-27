@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\UNI_FMI\2_dogina\SDA\DOM_4\task_4\task_4\Source.cpp(136,17): error C2065: 'list_size': undeclared identifier
+D:\UNI_FMI\2_dogina\SDA\DOM_4\task_4\task_4\Source.cpp(145,19): error C2065: 'list_size': undeclared identifier
